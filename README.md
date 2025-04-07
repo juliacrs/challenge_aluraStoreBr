@@ -62,7 +62,7 @@ Foi criado um relatório final automático, gerado com base nos dados reais anal
 ---
 
 ## 📸 Print do projeto rodando no Google Colab
-![Print do Colab](screenshot_colab.png)
+![Print do Colab](./screenshot_colab.png)
 
 ---
 

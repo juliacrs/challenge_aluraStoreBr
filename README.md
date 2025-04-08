@@ -20,8 +20,8 @@ O Sr. João é dono de uma rede com quatro lojas que operam no e-commerce **Alur
 ### ETAPA 2: Geração de gráficos
 Foram gerados **3 gráficos diferentes** usando a biblioteca **matplotlib**:
 1. Gráfico de barras verticais: Faturamento por loja
-2. Gráfico de barras horizontais: Custo médio do frete por loja
-3. Gráfico de pizza: Distribuição da média das avaliações por loja
+2. Gráfico de linha: Custo médio do frete por loja
+3. Gráfico de barras horizontais: Distribuição da média das avaliações por loja
 
 ### ETAPA 3: Relatório final dinâmico no Google Colab
 Foi criado um relatório final automático, gerado com base nos dados reais analisados e em variáveis dinâmicas que apontam qual loja tem o pior desempenho.
